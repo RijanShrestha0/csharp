@@ -1,0 +1,28 @@
+D:/Assignments/PRG 320/library/obj/Debug/net10.0/library.GeneratedMSBuildEditorConfig.editorconfig
+D:/Assignments/PRG 320/library/obj/Debug/net10.0/library.AssemblyInfoInputs.cache
+D:/Assignments/PRG 320/library/obj/Debug/net10.0/library.AssemblyInfo.cs
+D:/Assignments/PRG 320/library/obj/Debug/net10.0/library.csproj.CoreCompileInputs.cache
+D:/Assignments/PRG 320/library/bin/Debug/net10.0/library.exe
+D:/Assignments/PRG 320/library/bin/Debug/net10.0/library.deps.json
+D:/Assignments/PRG 320/library/bin/Debug/net10.0/library.runtimeconfig.json
+D:/Assignments/PRG 320/library/bin/Debug/net10.0/library.dll
+D:/Assignments/PRG 320/library/bin/Debug/net10.0/library.pdb
+D:/Assignments/PRG 320/library/obj/Debug/net10.0/library.dll
+D:/Assignments/PRG 320/library/obj/Debug/net10.0/refint/library.dll
+D:/Assignments/PRG 320/library/obj/Debug/net10.0/library.pdb
+D:/Assignments/PRG 320/library/obj/Debug/net10.0/library.genruntimeconfig.cache
+D:/Assignments/PRG 320/library/obj/Debug/net10.0/ref/library.dll
+/Users/rijanshrestha/Documents/csharp/library/obj/Debug/net10.0/library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rijanshrestha/Documents/csharp/library/obj/Debug/net10.0/library.AssemblyInfoInputs.cache
+/Users/rijanshrestha/Documents/csharp/library/obj/Debug/net10.0/library.AssemblyInfo.cs
+/Users/rijanshrestha/Documents/csharp/library/obj/Debug/net10.0/library.csproj.CoreCompileInputs.cache
+/Users/rijanshrestha/Documents/csharp/library/obj/Debug/net10.0/library.dll
+/Users/rijanshrestha/Documents/csharp/library/obj/Debug/net10.0/refint/library.dll
+/Users/rijanshrestha/Documents/csharp/library/obj/Debug/net10.0/library.pdb
+/Users/rijanshrestha/Documents/csharp/library/bin/Debug/net10.0/library
+/Users/rijanshrestha/Documents/csharp/library/bin/Debug/net10.0/library.deps.json
+/Users/rijanshrestha/Documents/csharp/library/bin/Debug/net10.0/library.runtimeconfig.json
+/Users/rijanshrestha/Documents/csharp/library/bin/Debug/net10.0/library.dll
+/Users/rijanshrestha/Documents/csharp/library/bin/Debug/net10.0/library.pdb
+/Users/rijanshrestha/Documents/csharp/library/obj/Debug/net10.0/library.genruntimeconfig.cache
+/Users/rijanshrestha/Documents/csharp/library/obj/Debug/net10.0/ref/library.dll

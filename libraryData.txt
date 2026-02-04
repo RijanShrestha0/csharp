@@ -1,0 +1,9 @@
+[
+  {
+    "$type": "book",
+    "Author": "Aadarsh",
+    "Title": "Aadarsh",
+    "Publisher": "Aaduuuuu",
+    "PublicationYear": "2039"
+  }
+]
